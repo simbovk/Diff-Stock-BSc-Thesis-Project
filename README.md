@@ -1,0 +1,1 @@
+# Diff-Stock-Bsc-Thesis-Project
