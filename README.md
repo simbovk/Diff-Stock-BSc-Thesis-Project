@@ -30,7 +30,7 @@ This figure illustrates the Sharpe Ratio (SR) across various models, showcasing 
 ### 3. Model Architecture:
 The architecture diagram below shows the model's components, including data inputs (financial news, indicators), the state encoder, diffusion process, Actor-Critic components, and the Q-value evaluation network.
 
-![Model Architecture](Figures/DIFF-STOCK-OVERVIEW.png)
+![Model Architecture](Figures/Model_Overview.png)
 
 ## Methodology
 
