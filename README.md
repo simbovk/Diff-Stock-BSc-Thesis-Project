@@ -27,7 +27,7 @@ This figure illustrates the Sharpe Ratio (SR) across various models, showcasing 
 
 <img src="Figures/SR.png" width="50%" />
 
-### 3. Cumulative Reward:
+### 3. Cumulative Return:
 This figure demonstrates the **Cumulative Return** over time, showing the agent's performance as it interacts with the stock market environment. The cumulative return is a key metric for evaluating how well the agent's policy maximizes long-term returns.
 
 ![Cumulative Return](Figures/Cumulative_return.png)
