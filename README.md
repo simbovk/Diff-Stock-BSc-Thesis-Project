@@ -30,7 +30,7 @@ This figure illustrates the Sharpe Ratio (SR) across various models, showcasing 
 ### 3. Cumulative Reward:
 This figure demonstrates the **Cumulative Return** over time, showing the agent's performance as it interacts with the stock market environment. The cumulative return is a key metric for evaluating how well the agent's policy maximizes long-term returns.
 
-![Cumulative Return](Figures/cumulative_return.png)
+![Cumulative Return](Figures/Cumulative_return.png)
 
 ### 4. Methodology Overview:
 The architecture diagram below shows the model's components, including data inputs (financial news, indicators), the state encoder, diffusion process, Actor-Critic components, and the Q-value evaluation network.
