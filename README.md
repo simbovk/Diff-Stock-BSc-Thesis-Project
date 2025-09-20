@@ -20,17 +20,17 @@ This project implements a deep reinforcement learning (DRL) model for stock trad
 ### 1. Performance Comparison:
 The following figure compares the performance of the model (labeled as "Ours") with traditional approaches (A2C, PPO, Ensemble, CLSTM, TD3, PPO-LSTM) using various metrics: CR%, MER%, MPB%, and APPT.
 
-![Performance Comparison](figures/Metrics1.png)
+![Performance Comparison](Figures/Metrics1.png)
 
 ### 2. Sharpe Ratio Comparison:
 This figure illustrates the Sharpe Ratio (SR) across various models, showcasing the effectiveness of the proposed model in achieving risk-adjusted returns.
 
-![Sharpe Ratio Comparison](figures/SR.png)
+![Sharpe Ratio Comparison](Figures/SR.png)
 
 ### 3. Model Architecture:
 The architecture diagram below shows the model's components, including data inputs (financial news, indicators), the state encoder, diffusion process, Actor-Critic components, and the Q-value evaluation network.
 
-![Model Architecture](figures/DIFF-STOCK-OVERVIEW.png)
+![Model Architecture](Figures/DIFF-STOCK-OVERVIEW.png)
 
 ## Methodology
 
