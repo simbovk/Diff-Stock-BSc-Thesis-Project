@@ -20,17 +20,22 @@ This project implements a deep reinforcement learning (DRL) model for stock trad
 ### 1. Performance Comparison:
 The following figure compares the performance of the model (labeled as "Ours") with traditional approaches (A2C, PPO, Ensemble, CLSTM, TD3, PPO-LSTM) using various metrics: CR%, MER%, MPB%, and APPT.
 
-![Performance Comparison](Figures/Metrics1.png)
+<img src="figures/performance_comparison.png" width="50%" />
 
 ### 2. Sharpe Ratio Comparison:
 This figure illustrates the Sharpe Ratio (SR) across various models, showcasing the effectiveness of the proposed model in achieving risk-adjusted returns.
 
-![Sharpe Ratio Comparison](Figures/SR.png)
+<img src="figures/sharpe_ratio_comparison.png" width="50%" />
 
-### 3. Model Architecture:
+### 3. Cumulative Reward:
+This figure demonstrates the **Cumulative Return** over time, showing the agent's performance as it interacts with the stock market environment. The cumulative return is a key metric for evaluating how well the agent's policy maximizes long-term returns.
+
+![Cumulative Return](figures/cumulative_return.png)
+
+### 4. Model Architecture:
 The architecture diagram below shows the model's components, including data inputs (financial news, indicators), the state encoder, diffusion process, Actor-Critic components, and the Q-value evaluation network.
 
-![Model Architecture](Figures/Model_Overview.png)
+![Model Architecture](figures/model_architecture.png)
 
 ## Methodology
 
