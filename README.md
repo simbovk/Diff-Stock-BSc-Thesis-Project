@@ -55,5 +55,5 @@ The agent uses **PPO** within the **Actor-Critic framework**, where the **Actor*
 We use **Bidirectional LSTM (Bi-LSTM)** as the state encoder to process historical stock data. The Bi-LSTM helps capture the dependencies in both directions of the time-series data, improving the model’s ability to understand market trends and make better predictions.
 
 ### 5. Training and Evaluation:
-- **Training**: The agent is trained on historical data from **2009–2020** and evaluated on out-of-sample data from **2021**.
+- **Training**: The agent is trained on historical data from **2008–2016** and evaluated on out-of-sample data from **2016 untill 2020**.
 - **Metrics**: The agent's performance is evaluated using **cumulative return**, **Sharpe ratio**, **maximum drawdown**, and other relevant financial metrics.
