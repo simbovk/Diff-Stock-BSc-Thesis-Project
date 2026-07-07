@@ -97,17 +97,6 @@ The 20-day observation window achieved the best overall performance, showing tha
 
 ---
 
-## Repository Structure
-
-```text
-.
-‚îú‚îÄ‚îÄ Diff_Stock_implementation.ipynb   # Main implementation notebook
-‚îú‚îÄ‚îÄ Figures/                          # Architecture and result figures
-‚îî‚îÄ‚îÄ README.md                         # Project documentation
-```
-
----
-
 ## How to Run
 
 1. Clone the repository:
