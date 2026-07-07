@@ -75,7 +75,7 @@ The model was implemented in **Python** using **PyTorch** and trained on **Googl
 
 The proposed EDiffusion-QL model outperformed several deep reinforcement learning baselines, including A2C, PPO, Ensemble DRL, CLSTM, TD3, and LSTM-PPO.
 
-| Model | CR ‚Üë | MER ‚Üë | MPB ‚Üì | APPT ‚Üë | SR ‚Üë |
+| Model | CR | MER | MPB | APPT| SR |
 |---|---:|---:|---:|---:|---:|
 | A2C | 63.04 | 67.73 | 16.64 | 20.57 | 0.94 |
 | PPO | 38.11 | 60.62 | 25.94 | 12.69 | 0.55 |
