@@ -64,8 +64,8 @@ The experiments follow a U.S. equity trading setup with:
 - **Daily financial news from Benzinga**
 - **Technical indicators:** adjusted close price, MACD, MACD signal, MACD histogram, CCI, RSI, ADX
 - **News embeddings:** FinBERT representations averaged per trading day
-- **Training period:** 2009‚Äì2015
-- **Testing period:** 2016‚Äì2020
+- **Training period:** 2009-2015
+- **Testing period:** 2016-2020
 
 The model was implemented in **Python** using **PyTorch** and trained on **Google Colab Pro with an NVIDIA A100 GPU**.
 
