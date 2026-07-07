@@ -102,8 +102,8 @@ The 20-day observation window achieved the best overall performance, showing tha
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/simbovk/Diff-Stock-BSc-Thesis-Project.git
-cd Diff-Stock-BSc-Thesis-Project
+git clone https://github.com/simbovk/EDiffusion-QL-Multimodal-Stock-Trading.git
+cd EDiffusion-QL-Multimodal-Stock-Trading
 ```
 
 2. Open the notebook:
