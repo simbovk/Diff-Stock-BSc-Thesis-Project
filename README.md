@@ -120,16 +120,7 @@ jupyter notebook Diff_Stock_implementation.ipynb
 
 ## Citation
 
-If you use this repository or build on this work, please cite:
-
-```bibtex
-@inproceedings{vakili2026ediffusionql,
-  title={Enhanced Diffusion Policy for Robust Multimodal Stock Trading through the Integration of Technical Indicators and Fundamental News},
-  author={Vakili, Amirali and Veisi, Mahan and Shahbazi Khojasteh, Mahdi and Salimi-Badr, Armin},
-  booktitle={IEEE Conference Proceedings},
-  year={2026}
-}
-```
+will be indexed on IEEE soon
 
 ---
 
